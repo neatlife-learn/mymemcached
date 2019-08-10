@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="memcached"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="source_inteligence">
+				<Option output="/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/source_inteligence" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 source_inteligence"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="source_inteligence/fast">
+				<Option output="/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/source_inteligence" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 source_inteligence/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="memcached">
+				<Option working_dir="/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 memcached"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/assoc.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/assoc.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/authfile.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/authfile.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/bipbuffer.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/bipbuffer.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/cache.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/cache.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/crawler.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/crawler.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/crc32c.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/crc32c.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/daemon.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/extstore.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/extstore.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/freebsd_priv.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/globals.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/hash.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/hash.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/items.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/items.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/itoa_ljust.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/itoa_ljust.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/jenkins_hash.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/jenkins_hash.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/linux_priv.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/logger.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/logger.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/memcached.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/memcached.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/murmur3_hash.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/murmur3_hash.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/openbsd_priv.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/sasl_defs.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/sasl_defs.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/sizes.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/slab_automove.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/slab_automove.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/slab_automove_extstore.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/slab_automove_extstore.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/slabs.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/slabs.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/solaris_priv.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/stats.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/stats.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/storage.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/storage.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/testapp.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/thread.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/timedrun.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/tls.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/tls.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/util.c">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/util.h">
+			<Option target="source_inteligence"/>
+		</Unit>
+		<Unit filename="/Users/suxiaolin/Dropbox/Projects/memcached/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

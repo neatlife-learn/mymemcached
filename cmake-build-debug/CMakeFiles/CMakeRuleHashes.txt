@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+79aa8daa700aa6d66373d05ab8dd62a9 CMakeFiles/memcached

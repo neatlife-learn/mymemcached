@@ -5,6 +5,9 @@
  * structures and function prototypes.
  */
 
+// 解决编辑器无法加载config.h
+#include "config.h"
+
 #ifdef HAVE_CONFIG_H
 #include "config.h"
 #endif

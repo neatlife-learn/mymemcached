@@ -1,3 +1,4 @@
+/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/myutil.dir
 /Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/source_inteligence.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/suxiaolin/Dropbox/Projects/memcached/crc32c.h
+
+/Users/suxiaolin/Dropbox/Projects/memcached/mycrc32.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+unistd.h
+-
+crc32c.h
+/Users/suxiaolin/Dropbox/Projects/memcached/crc32c.h
+

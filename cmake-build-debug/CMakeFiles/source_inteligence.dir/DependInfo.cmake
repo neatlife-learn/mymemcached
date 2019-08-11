@@ -22,6 +22,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/suxiaolin/Dropbox/Projects/memcached/logger.c" "/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/source_inteligence.dir/logger.c.o"
   "/Users/suxiaolin/Dropbox/Projects/memcached/memcached.c" "/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/source_inteligence.dir/memcached.c.o"
   "/Users/suxiaolin/Dropbox/Projects/memcached/murmur3_hash.c" "/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/source_inteligence.dir/murmur3_hash.c.o"
+  "/Users/suxiaolin/Dropbox/Projects/memcached/myutil.c" "/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/source_inteligence.dir/myutil.c.o"
   "/Users/suxiaolin/Dropbox/Projects/memcached/openbsd_priv.c" "/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/source_inteligence.dir/openbsd_priv.c.o"
   "/Users/suxiaolin/Dropbox/Projects/memcached/sasl_defs.c" "/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/source_inteligence.dir/sasl_defs.c.o"
   "/Users/suxiaolin/Dropbox/Projects/memcached/sizes.c" "/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles/source_inteligence.dir/sizes.c.o"

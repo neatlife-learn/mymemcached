@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/suxiaolin/Dropbox/Projects/memcached/config.h
+stdbool.h
+-
+inttypes.h
+-
+
+/Users/suxiaolin/Dropbox/Projects/memcached/myutil.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+unistd.h
+-
+config.h
+/Users/suxiaolin/Dropbox/Projects/memcached/config.h
+util.h
+/Users/suxiaolin/Dropbox/Projects/memcached/util.h
+
+/Users/suxiaolin/Dropbox/Projects/memcached/util.h
+

@@ -291,9 +291,22 @@ CMakeFiles/source_inteligence.dir/murmur3_hash.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/source_inteligence.dir/murmur3_hash.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/suxiaolin/Dropbox/Projects/memcached/murmur3_hash.c -o CMakeFiles/source_inteligence.dir/murmur3_hash.c.s
 
+CMakeFiles/source_inteligence.dir/myutil.c.o: CMakeFiles/source_inteligence.dir/flags.make
+CMakeFiles/source_inteligence.dir/myutil.c.o: ../myutil.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/source_inteligence.dir/myutil.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/myutil.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/myutil.c
+
+CMakeFiles/source_inteligence.dir/myutil.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/source_inteligence.dir/myutil.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/suxiaolin/Dropbox/Projects/memcached/myutil.c > CMakeFiles/source_inteligence.dir/myutil.c.i
+
+CMakeFiles/source_inteligence.dir/myutil.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/source_inteligence.dir/myutil.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/suxiaolin/Dropbox/Projects/memcached/myutil.c -o CMakeFiles/source_inteligence.dir/myutil.c.s
+
 CMakeFiles/source_inteligence.dir/openbsd_priv.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/openbsd_priv.c.o: ../openbsd_priv.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/source_inteligence.dir/openbsd_priv.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/source_inteligence.dir/openbsd_priv.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/openbsd_priv.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/openbsd_priv.c
 
 CMakeFiles/source_inteligence.dir/openbsd_priv.c.i: cmake_force
@@ -306,7 +319,7 @@ CMakeFiles/source_inteligence.dir/openbsd_priv.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/sasl_defs.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/sasl_defs.c.o: ../sasl_defs.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/source_inteligence.dir/sasl_defs.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/source_inteligence.dir/sasl_defs.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/sasl_defs.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/sasl_defs.c
 
 CMakeFiles/source_inteligence.dir/sasl_defs.c.i: cmake_force
@@ -319,7 +332,7 @@ CMakeFiles/source_inteligence.dir/sasl_defs.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/sizes.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/sizes.c.o: ../sizes.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/source_inteligence.dir/sizes.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/source_inteligence.dir/sizes.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/sizes.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/sizes.c
 
 CMakeFiles/source_inteligence.dir/sizes.c.i: cmake_force
@@ -332,7 +345,7 @@ CMakeFiles/source_inteligence.dir/sizes.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/slab_automove.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/slab_automove.c.o: ../slab_automove.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/source_inteligence.dir/slab_automove.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/source_inteligence.dir/slab_automove.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/slab_automove.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/slab_automove.c
 
 CMakeFiles/source_inteligence.dir/slab_automove.c.i: cmake_force
@@ -345,7 +358,7 @@ CMakeFiles/source_inteligence.dir/slab_automove.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/slab_automove_extstore.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/slab_automove_extstore.c.o: ../slab_automove_extstore.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/source_inteligence.dir/slab_automove_extstore.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/source_inteligence.dir/slab_automove_extstore.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/slab_automove_extstore.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/slab_automove_extstore.c
 
 CMakeFiles/source_inteligence.dir/slab_automove_extstore.c.i: cmake_force
@@ -358,7 +371,7 @@ CMakeFiles/source_inteligence.dir/slab_automove_extstore.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/slabs.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/slabs.c.o: ../slabs.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/source_inteligence.dir/slabs.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/source_inteligence.dir/slabs.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/slabs.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/slabs.c
 
 CMakeFiles/source_inteligence.dir/slabs.c.i: cmake_force
@@ -371,7 +384,7 @@ CMakeFiles/source_inteligence.dir/slabs.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/solaris_priv.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/solaris_priv.c.o: ../solaris_priv.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/source_inteligence.dir/solaris_priv.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/source_inteligence.dir/solaris_priv.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/solaris_priv.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/solaris_priv.c
 
 CMakeFiles/source_inteligence.dir/solaris_priv.c.i: cmake_force
@@ -384,7 +397,7 @@ CMakeFiles/source_inteligence.dir/solaris_priv.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/stats.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/stats.c.o: ../stats.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/source_inteligence.dir/stats.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/source_inteligence.dir/stats.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/stats.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/stats.c
 
 CMakeFiles/source_inteligence.dir/stats.c.i: cmake_force
@@ -397,7 +410,7 @@ CMakeFiles/source_inteligence.dir/stats.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/storage.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/storage.c.o: ../storage.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/source_inteligence.dir/storage.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/source_inteligence.dir/storage.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/storage.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/storage.c
 
 CMakeFiles/source_inteligence.dir/storage.c.i: cmake_force
@@ -410,7 +423,7 @@ CMakeFiles/source_inteligence.dir/storage.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/testapp.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/testapp.c.o: ../testapp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/source_inteligence.dir/testapp.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/source_inteligence.dir/testapp.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/testapp.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/testapp.c
 
 CMakeFiles/source_inteligence.dir/testapp.c.i: cmake_force
@@ -423,7 +436,7 @@ CMakeFiles/source_inteligence.dir/testapp.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/thread.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/thread.c.o: ../thread.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/source_inteligence.dir/thread.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/source_inteligence.dir/thread.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/thread.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/thread.c
 
 CMakeFiles/source_inteligence.dir/thread.c.i: cmake_force
@@ -436,7 +449,7 @@ CMakeFiles/source_inteligence.dir/thread.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/timedrun.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/timedrun.c.o: ../timedrun.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/source_inteligence.dir/timedrun.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/source_inteligence.dir/timedrun.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/timedrun.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/timedrun.c
 
 CMakeFiles/source_inteligence.dir/timedrun.c.i: cmake_force
@@ -449,7 +462,7 @@ CMakeFiles/source_inteligence.dir/timedrun.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/tls.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/tls.c.o: ../tls.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/source_inteligence.dir/tls.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/source_inteligence.dir/tls.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/tls.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/tls.c
 
 CMakeFiles/source_inteligence.dir/tls.c.i: cmake_force
@@ -462,7 +475,7 @@ CMakeFiles/source_inteligence.dir/tls.c.s: cmake_force
 
 CMakeFiles/source_inteligence.dir/util.c.o: CMakeFiles/source_inteligence.dir/flags.make
 CMakeFiles/source_inteligence.dir/util.c.o: ../util.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/source_inteligence.dir/util.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/source_inteligence.dir/util.c.o"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/source_inteligence.dir/util.c.o   -c /Users/suxiaolin/Dropbox/Projects/memcached/util.c
 
 CMakeFiles/source_inteligence.dir/util.c.i: cmake_force
@@ -493,6 +506,7 @@ source_inteligence_OBJECTS = \
 "CMakeFiles/source_inteligence.dir/logger.c.o" \
 "CMakeFiles/source_inteligence.dir/memcached.c.o" \
 "CMakeFiles/source_inteligence.dir/murmur3_hash.c.o" \
+"CMakeFiles/source_inteligence.dir/myutil.c.o" \
 "CMakeFiles/source_inteligence.dir/openbsd_priv.c.o" \
 "CMakeFiles/source_inteligence.dir/sasl_defs.c.o" \
 "CMakeFiles/source_inteligence.dir/sizes.c.o" \
@@ -529,6 +543,7 @@ source_inteligence: CMakeFiles/source_inteligence.dir/linux_priv.c.o
 source_inteligence: CMakeFiles/source_inteligence.dir/logger.c.o
 source_inteligence: CMakeFiles/source_inteligence.dir/memcached.c.o
 source_inteligence: CMakeFiles/source_inteligence.dir/murmur3_hash.c.o
+source_inteligence: CMakeFiles/source_inteligence.dir/myutil.c.o
 source_inteligence: CMakeFiles/source_inteligence.dir/openbsd_priv.c.o
 source_inteligence: CMakeFiles/source_inteligence.dir/sasl_defs.c.o
 source_inteligence: CMakeFiles/source_inteligence.dir/sizes.c.o
@@ -545,7 +560,7 @@ source_inteligence: CMakeFiles/source_inteligence.dir/tls.c.o
 source_inteligence: CMakeFiles/source_inteligence.dir/util.c.o
 source_inteligence: CMakeFiles/source_inteligence.dir/build.make
 source_inteligence: CMakeFiles/source_inteligence.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking C executable source_inteligence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/suxiaolin/Dropbox/Projects/memcached/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Linking C executable source_inteligence"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/source_inteligence.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

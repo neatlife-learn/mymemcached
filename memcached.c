@@ -251,6 +251,7 @@ static void stats_reset(void) {
 }
 
 static void settings_init(void) {
+    printf("初始化设置\n");
     settings.use_cas = true;
     settings.access = 0700;
     settings.port = 11211;

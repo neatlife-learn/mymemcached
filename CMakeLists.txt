@@ -11,3 +11,4 @@ add_custom_target(memcached COMMAND make -C ${BUILD_DIR}) #最关键的就是这
 aux_source_directory(. source_list)
 add_executable(source_inteligence  ${source_list})
 
+add_executable(myutil myutil.c util.c)

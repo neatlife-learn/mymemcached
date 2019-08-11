@@ -17,6 +17,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/source_inteligence.dir/logger.c.o"
   "CMakeFiles/source_inteligence.dir/memcached.c.o"
   "CMakeFiles/source_inteligence.dir/murmur3_hash.c.o"
+  "CMakeFiles/source_inteligence.dir/myutil.c.o"
   "CMakeFiles/source_inteligence.dir/openbsd_priv.c.o"
   "CMakeFiles/source_inteligence.dir/sasl_defs.c.o"
   "CMakeFiles/source_inteligence.dir/sizes.c.o"
